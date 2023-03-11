@@ -1,0 +1,32 @@
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+    .btn-lg {
+      width: 100%;
+      margin-bottom: 35px;
+    }
+    #loading {
+        width: 80%;
+        height: 80%;
+        margin: 0 auto;
+        background: url(../images/loader.gif);
+        background-position: center center;
+        background-size: 40%;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+    .col-xs-3 {
+        width: 10%;
+    }
+    .col-xs-6 {
+        width: 100%;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .logo {
+      font-size: 150px;
+    }
+  }
+ 
